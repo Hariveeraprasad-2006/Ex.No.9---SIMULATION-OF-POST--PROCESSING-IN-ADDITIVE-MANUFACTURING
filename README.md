@@ -34,21 +34,16 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
+![Screenshot 2023-12-16 212549](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/7789c875-2032-4ab3-a63e-bee80b0100e1)
+![Screenshot 2023-12-16 212606](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/e92b5d1c-c792-4a3a-bda4-a689f65cf48d)
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
+![Screenshot 2023-12-16 212627](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/c8496c6c-ce20-4c8d-9c51-30517fc9c3c1)
+![Screenshot 2023-12-16 212654](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/a10d0624-68ba-4035-a13d-0771ff54c2cf)
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
-## Output:
-
-### Name:
-### Register Number:
+![Screenshot 2023-12-16 212717](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/d6ea9c44-95d9-4078-ba47-66bf547f48bf)
+![Screenshot 2023-12-16 212731](https://github.com/Hariveeraprasad-2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145049988/a6305b36-08c3-4c7a-b6cb-88453dfa489e)
+### Name:Arikatla Hari Veera Prasad
+### Register Number:212223240014
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
